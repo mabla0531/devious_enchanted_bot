@@ -1,0 +1,622 @@
+{
+  "status": "ok",
+  "meta": { "count": 1 },
+  "data": {
+    "1000063076": {
+      "leader_id": 1005965849,
+      "color": "#58C65A",
+      "updated_at": 1729158003,
+      "private": null,
+      "tag": "FROGY",
+      "members_count": 82,
+      "description_html": "<p><strong>Requirements:</strong>\n<br/>- At least 3.5k DPG in tier 10 tanks\n<br/>- At least two of 260, 60TP, CS, 907, IS-7\n<br/>- Ability to listen to calls and participate and improve\n<br/>- Be active\n</p><p>\n<br/><strong>Teamspeak:</strong> FINESNA\n</p><p>\n<br/><strong>Recruitment:</strong> Message RNG__Stands_On_Business or\n<br/>_Niklas in game for an eval if you are close to the reqs. Stop by Teamspeak for a faster response.\n</p><p>\n<br/>FINES leadership is not responsible for the behavior and any other actions of individual players.\n<br/>If you experience any problems with a FINES player, please contact Wargaming Support! \n</p><p>\n<br/><strong>Disclaimer:</strong> Joining FINES or FXNES may result in a permanent ban from a certain stream.\n</p><p>\n<br/>If you do not meet our requirements consider joining GO4T the pipeline to STAKD!\n</p>",
+      "accepts_join_requests": false,
+      "leader_name": "Winged__BingChiLing",
+      "emblems": {
+        "x32": {
+          "portal": "https://na.wargaming.net/clans/media/clans/emblems/cl_076/1000063076/emblem_32x32.png"
+        },
+        "x24": {
+          "portal": "https://na.wargaming.net/clans/media/clans/emblems/cl_076/1000063076/emblem_24x24.png"
+        },
+        "x256": {
+          "wowp": "https://na.wargaming.net/clans/media/clans/emblems/cl_076/1000063076/emblem_256x256.png"
+        },
+        "x64": {
+          "wot": "https://na.wargaming.net/clans/media/clans/emblems/cl_076/1000063076/emblem_64x64_tank.png",
+          "portal": "https://na.wargaming.net/clans/media/clans/emblems/cl_076/1000063076/emblem_64x64.png"
+        },
+        "x195": {
+          "portal": "https://na.wargaming.net/clans/media/clans/emblems/cl_076/1000063076/emblem_195x195.png"
+        }
+      },
+      "clan_id": 1000063076,
+      "renamed_at": 0,
+      "old_tag": "",
+      "description": "*Requirements:*\n- At least 3.5k DPG in tier 10 tanks\n- At least two of 260, 60TP, CS, 907, IS-7\n- Ability to listen to calls and participate and improve\n- Be active\n\n*Teamspeak:* FINESNA\n\n*Recruitment:* Message RNG__Stands_On_Business or\n_Niklas in game for an eval if you are close to the reqs. Stop by Teamspeak for a faster response.\n\nFINES leadership is not responsible for the behavior and any other actions of individual players.\nIf you experience any problems with a FINES player, please contact Wargaming Support! \n\n*Disclaimer:* Joining FINES or FXNES may result in a permanent ban from a certain stream.\n\nIf you do not meet our requirements consider joining GO4T the pipeline to STAKD!",
+      "members": {
+        "1021313154": {
+          "role": "junior_officer",
+          "role_i18n": "Junior Officer",
+          "joined_at": 1722000305,
+          "account_id": 1021313154,
+          "account_name": "Ferrets_brother_Inlaw"
+        },
+        "1002172931": {
+          "role": "junior_officer",
+          "role_i18n": "Junior Officer",
+          "joined_at": 1722029042,
+          "account_id": 1002172931,
+          "account_name": "theincredulousk"
+        },
+        "1047319830": {
+          "role": "junior_officer",
+          "role_i18n": "Junior Officer",
+          "joined_at": 1722029052,
+          "account_id": 1047319830,
+          "account_name": "_Kookie"
+        },
+        "1005196169": {
+          "role": "private",
+          "role_i18n": "Private",
+          "joined_at": 1722051042,
+          "account_id": 1005196169,
+          "account_name": "talabez17"
+        },
+        "1007863627": {
+          "role": "private",
+          "role_i18n": "Private",
+          "joined_at": 1722000301,
+          "account_id": 1007863627,
+          "account_name": "NahinuEmperorJunka"
+        },
+        "1004883339": {
+          "role": "private",
+          "role_i18n": "Private",
+          "joined_at": 1722027234,
+          "account_id": 1004883339,
+          "account_name": "swagbot123"
+        },
+        "1001213324": {
+          "role": "private",
+          "role_i18n": "Private",
+          "joined_at": 1722000337,
+          "account_id": 1001213324,
+          "account_name": "Aoda_"
+        },
+        "1003803149": {
+          "role": "executive_officer",
+          "role_i18n": "Executive Officer",
+          "joined_at": 1722027198,
+          "account_id": 1003803149,
+          "account_name": "GuoEmperorFerret"
+        },
+        "1002633614": {
+          "role": "private",
+          "role_i18n": "Private",
+          "joined_at": 1722027168,
+          "account_id": 1002633614,
+          "account_name": "bfp4f360"
+        },
+        "1012133647": {
+          "role": "private",
+          "role_i18n": "Private",
+          "joined_at": 1722030408,
+          "account_id": 1012133647,
+          "account_name": "way2krasea"
+        },
+        "1002045456": {
+          "role": "executive_officer",
+          "role_i18n": "Executive Officer",
+          "joined_at": 1728607955,
+          "account_id": 1002045456,
+          "account_name": "GuoChefFroto"
+        },
+        "1054478865": {
+          "role": "private",
+          "role_i18n": "Private",
+          "joined_at": 1722308658,
+          "account_id": 1054478865,
+          "account_name": "Stephanie__Plays"
+        },
+        "1001719640": {
+          "role": "junior_officer",
+          "role_i18n": "Junior Officer",
+          "joined_at": 1722041651,
+          "account_id": 1001719640,
+          "account_name": "TRY_BANANA_KETCHUP"
+        },
+        "1057019779": {
+          "role": "combat_officer",
+          "role_i18n": "Combat Officer",
+          "joined_at": 1724114470,
+          "account_id": 1057019779,
+          "account_name": "jennichancellorgmx"
+        },
+        "1026560532": {
+          "role": "junior_officer",
+          "role_i18n": "Junior Officer",
+          "joined_at": 1722000328,
+          "account_id": 1026560532,
+          "account_name": "Aqua"
+        },
+        "1003192982": {
+          "role": "intelligence_officer",
+          "role_i18n": "Intelligence Officer",
+          "joined_at": 1721865809,
+          "account_id": 1003192982,
+          "account_name": "FrogOfWar114SP"
+        },
+        "1005965849": {
+          "role": "commander",
+          "role_i18n": "Commander",
+          "joined_at": 1722038343,
+          "account_id": 1005965849,
+          "account_name": "Winged__BingChiLing"
+        },
+        "1021384076": {
+          "role": "private",
+          "role_i18n": "Private",
+          "joined_at": 1722000332,
+          "account_id": 1021384076,
+          "account_name": "Jokouc"
+        },
+        "1001797247": {
+          "role": "private",
+          "role_i18n": "Private",
+          "joined_at": 1724254185,
+          "account_id": 1001797247,
+          "account_name": "707_horsepower"
+        },
+        "1005518493": {
+          "role": "private",
+          "role_i18n": "Private",
+          "joined_at": 1727857303,
+          "account_id": 1005518493,
+          "account_name": "BlueThunder01"
+        },
+        "1008079521": {
+          "role": "private",
+          "role_i18n": "Private",
+          "joined_at": 1722037642,
+          "account_id": 1008079521,
+          "account_name": "Jazzhands_"
+        },
+        "1058840995": {
+          "role": "junior_officer",
+          "role_i18n": "Junior Officer",
+          "joined_at": 1727227357,
+          "account_id": 1058840995,
+          "account_name": "Sunshine_Boost"
+        },
+        "1002278436": {
+          "role": "combat_officer",
+          "role_i18n": "Combat Officer",
+          "joined_at": 1722043436,
+          "account_id": 1002278436,
+          "account_name": "__tigr"
+        },
+        "1002192933": {
+          "role": "junior_officer",
+          "role_i18n": "Junior Officer",
+          "joined_at": 1722887927,
+          "account_id": 1002192933,
+          "account_name": "AliceVonBully"
+        },
+        "1006193743": {
+          "role": "junior_officer",
+          "role_i18n": "Junior Officer",
+          "joined_at": 1722042393,
+          "account_id": 1006193743,
+          "account_name": "Mallore"
+        },
+        "1062121959": {
+          "role": "combat_officer",
+          "role_i18n": "Combat Officer",
+          "joined_at": 1724823475,
+          "account_id": 1062121959,
+          "account_name": "Emotional"
+        },
+        "1054860841": {
+          "role": "junior_officer",
+          "role_i18n": "Junior Officer",
+          "joined_at": 1724153583,
+          "account_id": 1054860841,
+          "account_name": "Amigo_Wrangler_Florian"
+        },
+        "1002287786": {
+          "role": "junior_officer",
+          "role_i18n": "Junior Officer",
+          "joined_at": 1725630836,
+          "account_id": 1002287786,
+          "account_name": "mrhood"
+        },
+        "1001232555": {
+          "role": "junior_officer",
+          "role_i18n": "Junior Officer",
+          "joined_at": 1722028727,
+          "account_id": 1001232555,
+          "account_name": "Hiro_o7"
+        },
+        "1009323693": {
+          "role": "combat_officer",
+          "role_i18n": "Combat Officer",
+          "joined_at": 1722000276,
+          "account_id": 1009323693,
+          "account_name": "CountryPimpEra"
+        },
+        "1003327150": {
+          "role": "private",
+          "role_i18n": "Private",
+          "joined_at": 1722214619,
+          "account_id": 1003327150,
+          "account_name": "JoeBobBilly"
+        },
+        "1002617437": {
+          "role": "private",
+          "role_i18n": "Private",
+          "joined_at": 1727317120,
+          "account_id": 1002617437,
+          "account_name": "klud"
+        },
+        "1038813616": {
+          "role": "combat_officer",
+          "role_i18n": "Combat Officer",
+          "joined_at": 1722027234,
+          "account_id": 1038813616,
+          "account_name": "Alex_Mtl_718"
+        },
+        "1033424051": {
+          "role": "executive_officer",
+          "role_i18n": "Executive Officer",
+          "joined_at": 1722368406,
+          "account_id": 1033424051,
+          "account_name": "Charan_Kanna"
+        },
+        "1002009141": {
+          "role": "private",
+          "role_i18n": "Private",
+          "joined_at": 1728769019,
+          "account_id": 1002009141,
+          "account_name": "sprite1x"
+        },
+        "1047997878": {
+          "role": "private",
+          "role_i18n": "Private",
+          "joined_at": 1726265860,
+          "account_id": 1047997878,
+          "account_name": "SKIBIDI_SIGMA_RIZZ"
+        },
+        "1007914424": {
+          "role": "junior_officer",
+          "role_i18n": "Junior Officer",
+          "joined_at": 1722115278,
+          "account_id": 1007914424,
+          "account_name": "elliod"
+        },
+        "1026288442": {
+          "role": "intelligence_officer",
+          "role_i18n": "Intelligence Officer",
+          "joined_at": 1657233271,
+          "account_id": 1026288442,
+          "account_name": "Fathoms_Deep_1"
+        },
+        "1003745339": {
+          "role": "recruitment_officer",
+          "role_i18n": "Recruitment Officer",
+          "joined_at": 1722027198,
+          "account_id": 1003745339,
+          "account_name": "RNG__Stands_On_Business"
+        },
+        "1056936764": {
+          "role": "combat_officer",
+          "role_i18n": "Combat Officer",
+          "joined_at": 1724114895,
+          "account_id": 1056936764,
+          "account_name": "shawdannielgmx"
+        },
+        "1004633468": {
+          "role": "intelligence_officer",
+          "role_i18n": "Intelligence Officer",
+          "joined_at": 1657712757,
+          "account_id": 1004633468,
+          "account_name": "MasterChief67"
+        },
+        "1003125185": {
+          "role": "combat_officer",
+          "role_i18n": "Combat Officer",
+          "joined_at": 1722064217,
+          "account_id": 1003125185,
+          "account_name": "Sabre__"
+        },
+        "1055463362": {
+          "role": "private",
+          "role_i18n": "Private",
+          "joined_at": 1722917498,
+          "account_id": 1055463362,
+          "account_name": "Coochie_VN"
+        },
+        "1062552771": {
+          "role": "combat_officer",
+          "role_i18n": "Combat Officer",
+          "joined_at": 1728195539,
+          "account_id": 1062552771,
+          "account_name": "Dejdy"
+        },
+        "1042388553": {
+          "role": "junior_officer",
+          "role_i18n": "Junior Officer",
+          "joined_at": 1722000323,
+          "account_id": 1042388553,
+          "account_name": "Divine"
+        },
+        "1013031851": {
+          "role": "junior_officer",
+          "role_i18n": "Junior Officer",
+          "joined_at": 1722027197,
+          "account_id": 1013031851,
+          "account_name": "DarterTheVanquisher"
+        },
+        "1052532171": {
+          "role": "private",
+          "role_i18n": "Private",
+          "joined_at": 1724651081,
+          "account_id": 1052532171,
+          "account_name": "iyten_260enjoyer"
+        },
+        "1001221710": {
+          "role": "private",
+          "role_i18n": "Private",
+          "joined_at": 1723181343,
+          "account_id": 1001221710,
+          "account_name": "___Nic"
+        },
+        "1055875469": {
+          "role": "private",
+          "role_i18n": "Private",
+          "joined_at": 1722027149,
+          "account_id": 1055875469,
+          "account_name": "AzureAkua"
+        },
+        "1045589304": {
+          "role": "intelligence_officer",
+          "role_i18n": "Intelligence Officer",
+          "joined_at": 1656754150,
+          "account_id": 1045589304,
+          "account_name": "35ko"
+        },
+        "1024292050": {
+          "role": "private",
+          "role_i18n": "Private",
+          "joined_at": 1726203459,
+          "account_id": 1024292050,
+          "account_name": "_penguino_"
+        },
+        "1043906771": {
+          "role": "private",
+          "role_i18n": "Private",
+          "joined_at": 1722029445,
+          "account_id": 1043906771,
+          "account_name": "platinumdust"
+        },
+        "1001841022": {
+          "role": "private",
+          "role_i18n": "Private",
+          "joined_at": 1722044130,
+          "account_id": 1001841022,
+          "account_name": "McDonalds_Drive_Thru"
+        },
+        "1054801602": {
+          "role": "private",
+          "role_i18n": "Private",
+          "joined_at": 1723916676,
+          "account_id": 1054801602,
+          "account_name": "Silver_NA_Kangz__onTOP"
+        },
+        "1030552153": {
+          "role": "private",
+          "role_i18n": "Private",
+          "joined_at": 1723345316,
+          "account_id": 1030552153,
+          "account_name": "Ubel_"
+        },
+        "1004108879": {
+          "role": "private",
+          "role_i18n": "Private",
+          "joined_at": 1724393046,
+          "account_id": 1004108879,
+          "account_name": "oever"
+        },
+        "1014734684": {
+          "role": "junior_officer",
+          "role_i18n": "Junior Officer",
+          "joined_at": 1722040289,
+          "account_id": 1014734684,
+          "account_name": "Adderall_SZN"
+        },
+        "1055655098": {
+          "role": "combat_officer",
+          "role_i18n": "Combat Officer",
+          "joined_at": 1722399100,
+          "account_id": 1055655098,
+          "account_name": "SilverAndGoldPlayHeavies"
+        },
+        "1031666789": {
+          "role": "junior_officer",
+          "role_i18n": "Junior Officer",
+          "joined_at": 1722658677,
+          "account_id": 1031666789,
+          "account_name": "Rosevene"
+        },
+        "1016987744": {
+          "role": "executive_officer",
+          "role_i18n": "Executive Officer",
+          "joined_at": 1722027197,
+          "account_id": 1016987744,
+          "account_name": "GuoBloodlineWheely"
+        },
+        "1003448161": {
+          "role": "private",
+          "role_i18n": "Private",
+          "joined_at": 1723004862,
+          "account_id": 1003448161,
+          "account_name": "IHateArtyPlayers"
+        },
+        "1002418491": {
+          "role": "personnel_officer",
+          "role_i18n": "Personnel Officer",
+          "joined_at": 1722139279,
+          "account_id": 1002418491,
+          "account_name": "Zray_"
+        },
+        "1008022116": {
+          "role": "junior_officer",
+          "role_i18n": "Junior Officer",
+          "joined_at": 1722066653,
+          "account_id": 1008022116,
+          "account_name": "TFPhage"
+        },
+        "1032718309": {
+          "role": "private",
+          "role_i18n": "Private",
+          "joined_at": 1723251328,
+          "account_id": 1032718309,
+          "account_name": "Superbananazomb"
+        },
+        "1054505318": {
+          "role": "private",
+          "role_i18n": "Private",
+          "joined_at": 1727197028,
+          "account_id": 1054505318,
+          "account_name": "Crogii_nuggie_lover"
+        },
+        "1055732455": {
+          "role": "private",
+          "role_i18n": "Private",
+          "joined_at": 1724380066,
+          "account_id": 1055732455,
+          "account_name": "FREE_TOYOTA"
+        },
+        "1019284284": {
+          "role": "executive_officer",
+          "role_i18n": "Executive Officer",
+          "joined_at": 1726096099,
+          "account_id": 1019284284,
+          "account_name": "DUA_LIPA_WITH_DABABY"
+        },
+        "1060155495": {
+          "role": "junior_officer",
+          "role_i18n": "Junior Officer",
+          "joined_at": 1722074225,
+          "account_id": 1060155495,
+          "account_name": "__Depressed__"
+        },
+        "1010292204": {
+          "role": "combat_officer",
+          "role_i18n": "Combat Officer",
+          "joined_at": 1722026911,
+          "account_id": 1010292204,
+          "account_name": "MeIIy"
+        },
+        "1047230687": {
+          "role": "intelligence_officer",
+          "role_i18n": "Intelligence Officer",
+          "joined_at": 1715887369,
+          "account_id": 1047230687,
+          "account_name": "Princess_Potato"
+        },
+        "1005621757": {
+          "role": "executive_officer",
+          "role_i18n": "Executive Officer",
+          "joined_at": 1722054996,
+          "account_id": 1005621757,
+          "account_name": "JonJonBonBon"
+        },
+        "1057868627": {
+          "role": "private",
+          "role_i18n": "Private",
+          "joined_at": 1725560520,
+          "account_id": 1057868627,
+          "account_name": "wotereq"
+        },
+        "1057019893": {
+          "role": "combat_officer",
+          "role_i18n": "Combat Officer",
+          "joined_at": 1724114472,
+          "account_id": 1057019893,
+          "account_name": "annalisemercergmx"
+        },
+        "1012170998": {
+          "role": "private",
+          "role_i18n": "Private",
+          "joined_at": 1722031150,
+          "account_id": 1012170998,
+          "account_name": "0blivion___"
+        },
+        "1011134839": {
+          "role": "combat_officer",
+          "role_i18n": "Combat Officer",
+          "joined_at": 1722000309,
+          "account_id": 1011134839,
+          "account_name": "TegridyFarms"
+        },
+        "1056924280": {
+          "role": "junior_officer",
+          "role_i18n": "Junior Officer",
+          "joined_at": 1726200277,
+          "account_id": 1056924280,
+          "account_name": "AglioPasta"
+        },
+        "1057094036": {
+          "role": "junior_officer",
+          "role_i18n": "Junior Officer",
+          "joined_at": 1722026916,
+          "account_id": 1057094036,
+          "account_name": "CluelessHuman"
+        },
+        "1033014267": {
+          "role": "private",
+          "role_i18n": "Private",
+          "joined_at": 1727659201,
+          "account_id": 1033014267,
+          "account_name": "PlayFight"
+        },
+        "1010642428": {
+          "role": "private",
+          "role_i18n": "Private",
+          "joined_at": 1722395850,
+          "account_id": 1010642428,
+          "account_name": "____will"
+        },
+        "1055430397": {
+          "role": "junior_officer",
+          "role_i18n": "Junior Officer",
+          "joined_at": 1723606036,
+          "account_id": 1055430397,
+          "account_name": "PASSlON"
+        },
+        "1011091326": {
+          "role": "combat_officer",
+          "role_i18n": "Combat Officer",
+          "joined_at": 1722000313,
+          "account_id": 1011091326,
+          "account_name": "Malinovka"
+        },
+        "1012521983": {
+          "role": "junior_officer",
+          "role_i18n": "Junior Officer",
+          "joined_at": 1722036619,
+          "account_id": 1012521983,
+          "account_name": "Pride"
+        }
+      },
+      "old_name": "",
+      "is_clan_disbanded": false,
+      "motto": "In Frogs We Trust",
+      "name": "FROGS",
+      "creator_name": "DepressedCats",
+      "created_at": 1653878725,
+      "creator_id": 1049887186
+    }
+  }
+}
